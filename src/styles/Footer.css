@@ -1,0 +1,14 @@
+
+.footer {
+    width: 100%;
+}
+
+.footer h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #cccccc;
+}
